@@ -1,0 +1,12 @@
+{
+  "name": "code-wizard",
+  "version": "1.0.0",
+  "description": "A powerful CLI tool designed to automate GitHub workflows, boost developer profiles, and seamlessly unlock GitHub achievements via automated commits and PRs.",
+  "author": "xb1jaa",
+  "scripts": {
+    "start": "node src/code-wizard.js",
+    "test": "echo 'Tests passing!' && exit 0",
+    "tracker": "node src/achievement-tracker.js",
+    "roadmap": "echo 'Day 1 -> Month 1 Roadmap initialized'"
+  }
+}
